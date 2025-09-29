@@ -1,2 +1,8 @@
-# Privacy-Preserving-Federated-IDS-for-IoV
-Privacy-Preserving Federated Intrusion Detection System (FedIDS) for Internet of Vehicles, built with PyTorch, Flower, and Streamlit. Includes client–server FL setup, differential privacy integration, model training/testing utilities, and an interactive results dashboard..
+This project implements a Privacy-Preserving Federated Intrusion Detection System (FedIDS) for the Internet of Vehicles (IoV).
+It combines Federated Learning (FL) with Differential Privacy (DP) to enable collaborative training across distributed clients without exposing raw data.
+
+The system includes:
+- Client–Server FL setup using Flower and PyTorch.
+- Differential Privacy integration for secure model updates.
+- Model training & testing utilities for IDS datasets.
+- Interactive dashboard (Streamlit) for real-time monitoring and results visualization.
